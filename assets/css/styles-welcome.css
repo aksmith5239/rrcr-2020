@@ -1,0 +1,21 @@
+* {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+	
+}
+
+header {
+
+}
+
+header h1 {
+    font-size: 30px;
+    color: #273555;
+}
+.hero {
+    background-image: url(../images/Capitol_Snow.jpg);
+    background-size: cover;
+    background-position: center;
+}
